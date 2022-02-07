@@ -59,3 +59,37 @@ body{
     left: 400px;
     top: 400px;
 }
+
+#img3-1-draggable{
+    right:550px;
+    left:610px;
+    top:200px;
+}
+#img3-2-draggable{
+    right:150px;
+    left:614px;
+    top:200px;
+
+}#img3-3-draggable{
+    right:150px;
+    left:618px;
+    top:200px;
+}
+
+#img1-1-draggable{
+    right:150px;
+    left:610px;
+    bottom: -200px;
+}
+
+#img1-2-draggable{
+    right:150px;
+    left:614px;
+    bottom: -200px;
+}
+
+#img1-3-draggable{
+    right:150px;
+    left:618px;
+    bottom: -200px;
+}
